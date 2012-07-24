@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">OneClick APN new</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+	<string-array name="country">
+    	<item>대한민국</item>
+    	<item>미국</item>
+    	<item>일본</item>
+	</string-array>
+
+</resources>
